@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="682f907e-ae69-4e60-bd03-e249439ea792" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1031129-gti-wallpaper-1920x1080-for-1080p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/build/classes/java/main/StringCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal.project/src/main/java/StringCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/classes/java/test/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/classes/CalculatorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/test-results/test/TEST-CalculatorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cal/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/build/classes/java/main/StringCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/src/main/java/StringCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/build/classes/java/main/Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/main/java/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/build/classes/java/main/Die.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/genericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/genericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/build/classes/java/main/Stringcalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCal/src/main/java/Stringcalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/build/classes/java/main/stringCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/src/main/java/stringCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/src/test/java/CalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalculator/src/test/java/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/classes/java/main/Pass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/classes/java/main/PasswordOk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/classes/java/test/PassTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/classes/PassTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/test-results/test/TEST-PassTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/src/main/java/Pass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/src/main/java/PasswordOk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addLogs/src/test/java/PassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/classes/java/main/conWayGameOfLife.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/classes/java/test/wayTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/classes/wayTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/test-results/test/TEST-wayTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gameOfLife/src/test/java/wayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tumblr_o53uoeufWN1sczk2xo1_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build/classes/java/main/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build/classes/java/main/com/example/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build/classes/java/main/com/example/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build/classes/java/main/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/com/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/com/example/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/classes/java/main/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/classes/java/test/visitorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/classes/visitorTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/resources/main/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/test-results/test/TEST-visitorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/src/main/java/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/src/main/resources/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/src/test/java/visitorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/visitor_alice_cooper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/visitor_bob_marley.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../visitorProject/visitor_charlie_sheen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/build/classes/java/main/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/build/classes/java/main/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/build/resources/main/log4j2-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/src/main/java/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Result/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/src/main/java/Score.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/src/main/java/Visitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/src/main/resources/log4j2-test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/visitor_alice_cooper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/visitor_bob_marley.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorHandling/visitor_charlie_sheen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswordChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Result/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Result/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Result/out/production/Result/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Result/out/production/Result/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Result/src/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Result/src/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Winner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/Winner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XkD7QFbs7D6U4mq27eNS8tMKMt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericClass" />
+      <module name="Java_Generics.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics" />
+      <module name="Java_Generics.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java_Generics.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="Java_Generics.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.GenericClass" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Generics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682f907e-ae69-4e60-bd03-e249439ea792" name="Default Changelist" comment="" />
+      <created>1581581030592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581581030592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1581619515679">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581603148726" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1581619515679" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1581619515676">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581603148724" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1581619515676" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1581619515673">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581603148721" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1581619515673" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1581619515678">
+      <screen x="0" y="22" width="1280" height="778" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581603148725" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1581619515678" />
+    <state x="347" y="13" key="refactoring.ChangeSignatureDialog" timestamp="1581601531988">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="13" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1581601531988" />
+  </component>
+</project>
